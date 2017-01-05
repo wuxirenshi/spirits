@@ -1,0 +1,8 @@
+test1:
+  url: http://10.12.65.79:8089/get_order_information
+  method: get
+
+  check_rsp_code: 200
+  check_format: true
+  check_rsp:
+    data: success

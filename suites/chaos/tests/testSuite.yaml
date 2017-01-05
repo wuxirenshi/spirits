@@ -1,0 +1,6 @@
+test_module: suites.chaos.lib.chaos
+test_class: Chaos
+test_path: suites/chaos/tests
+
+test_case:
+  - 'test-001.yaml'
